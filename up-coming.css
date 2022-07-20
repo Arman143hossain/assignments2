@@ -3,24 +3,22 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
 .container {
     width: 90%;
     margin: 0 auto;
 }
-
 .header {
     width: 100%;
     height: 588px;
     color: #ffff;
     display: flex;
-    background-color: #de16e1;
+    background-color: #fc86d9;
     margin-bottom: 85px;
 }
 
 .btn {
     padding: 8px 10px;
-    background: red;
+    background: rgb(14, 30, 248);
     color: white;
     font-weight: bold;
     cursor: pointer;
@@ -56,17 +54,14 @@ h3 {
 }
 
 #lal {
-    background-color: red;
+    background-color: rgb(255, 0, 170);
     color: white;
-
 }
-
 .main-box {
     display: flex;
     width: 90%;
     margin: 0 auto;
 }
-
 .box {
     width: 184px;
 }
@@ -83,9 +78,6 @@ h3 {
     width: 325px;
     height: 175px;
 }
-
-
-
 .g-box {
     border: 1px solid gray;
 }
@@ -97,22 +89,18 @@ h3 {
     cursor: pointer;
 }
 
-
 .all-match {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
 
-
-
-
 /* footer */
 
 .footer {
     width: 100%;
     height: 444px;
-    background-color: #000;
+    background-color: rgb(253, 167, 224);
     margin-top: 140px;
 }
 
@@ -220,10 +208,6 @@ h3 {
         width: 100%;
     }
 }
-
-
-
-
 
 .team img {
     width: 100px;

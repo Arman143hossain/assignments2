@@ -14,13 +14,13 @@ body {
     height: 588px;
     color: #ffff;
     display: flex;
-    background-color: #000;
+    background-color: rgb(202, 250, 29);
     margin-bottom: 85px;
 }
 
 .btn {
     padding: 8px 10px;
-    background: red;
+    background: rgb(47, 17, 158);
     color: white;
     font-weight: bold;
     cursor: pointer;
